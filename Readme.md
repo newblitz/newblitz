@@ -1,6 +1,6 @@
 <!-- PROFILE HEADER -->
 <h1 align="center">Hi 👋, I'm Prateek Singh</h1>
-<h3 align="center">Backend Developer | Cybersecurity Enthusiast | ML Explorer</h3>
+<h3 align="center">Backend Developer | Cybersecurity | ML Explorer</h3>
 
 <!-- TYPING ANIMATION -->
 <p align="center">
@@ -16,11 +16,11 @@
 🌐 Backend Developer (Django)  
 🔐 Interested in Cybersecurity  
 🤖 Learning Machine Learning & Deep Learning  
-🏆 Hackathon Participant  
+ 
 
 - 🌱 Currently learning **Cybersecurity & Deep Learning**
 - 🎯 Goal → Build secure and scalable systems
-- 💡 Love debugging and solving complex problems
+
 
 ---
 
@@ -42,8 +42,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=newblitz&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=newblitz&theme=tokyonight" />
 </p>
 
 ---
@@ -51,7 +51,7 @@
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=newblitz&theme=tokyo-night" />
 </p>
 
 ---
@@ -68,7 +68,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=newblitz&theme=tokyonight&row=1" />
 </p>
 
 ---
@@ -76,7 +76,7 @@
 ## 👀 Visitor Counter
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=newblitz&label=Profile+Views&color=0e75b6&style=flat" />
 </p>
 
 ---
