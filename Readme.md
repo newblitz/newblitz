@@ -46,15 +46,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=newblitz&theme=tokyonight" />
 </p>
 
----
 
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=newblitz&theme=tokyo-night" />
-</p>
-
----
 
 ## 🧠 Currently Learning
 
@@ -63,20 +55,12 @@
 ✔ System Design  
 ✔ Backend Architecture  
 
----
-
-
----
-
-
 
 ---
 
 ## 📫 Connect With Me
 
-- LinkedIn → your link
-- Portfolio → your website
-- Email → your@email.com
+- LinkedIn → https://www.linkedin.com/in/prateek-singh-316a85286/
 
 ---
 
