@@ -1,73 +1,92 @@
-# Hi 👋, I'm Prateek Singh
+<!-- PROFILE HEADER -->
+<h1 align="center">Hi 👋, I'm Prateek Singh</h1>
+<h3 align="center">Backend Developer | Cybersecurity Enthusiast | ML Explorer</h3>
 
-🚀 Passionate about building scalable systems, solving real-world problems, and continuously learning new technologies.
+<!-- TYPING ANIMATION -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Python+Developer;Django+Backend+Developer;Cybersecurity+Learner;Machine+Learning+Explorer;Hackathon+Enthusiast" />
+</p>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-🎓 3rd Year Engineering Student  
+🎓 Engineering Student  
 🐍 Python Developer  
-🌐 Backend Development with Django  
+🌐 Backend Developer (Django)  
 🔐 Interested in Cybersecurity  
-🤖 Exploring Machine Learning & Deep Learning  
-🏆 Hackathon Enthusiast  
+🤖 Learning Machine Learning & Deep Learning  
+🏆 Hackathon Participant  
 
-- 🌱 Currently learning: **Cybersecurity, Deep Learning, Django**
-- 🎯 Goal: Build impactful projects and secure systems
-- 💡 Love solving complex technical problems
-- ⚡ Fun fact: I enjoy debugging more than writing code 😄
+- 🌱 Currently learning **Cybersecurity & Deep Learning**
+- 🎯 Goal → Build secure and scalable systems
+- 💡 Love debugging and solving complex problems
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-- Python
-- JavaScript
-- SQL
-- HTML/CSS
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge)
 
 ### ⚙️ Frameworks & Tools
-- Django
-- Git & GitHub
-- Linux
-- Wireshark
-- REST APIs
-
-### 🧠 Areas of Interest
-- Cybersecurity
-- Machine Learning
-- Deep Learning
-- Backend Development
-- System Design
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge)
 
 ---
 
 ## 📊 GitHub Stats
 
-![Prateek's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
 
 ---
 
-## 🚀 Featured Projects
+## 📈 Activity Graph
 
-🔹 Project Name — Short description  
-🔹 Project Name — Short description  
-🔹 Project Name — Short description  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" />
+</p>
 
-(Replace with your actual projects)
+---
+
+## 🧠 Currently Learning
+
+✔ Cybersecurity  
+✔ Deep Learning  
+✔ System Design  
+✔ Backend Architecture  
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1" />
+</p>
+
+---
+
+## 👀 Visitor Counter
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
 ## 📫 Connect With Me
 
-- LinkedIn: [Your LinkedIn Link]
-- Portfolio: [Your Website]
-- Email: your.email@example.com
+- LinkedIn → your link
+- Portfolio → your website
+- Email → your@email.com
 
 ---
 
-⭐️ From [Prateek Singh](https://github.com/YOUR_USERNAME)
+⭐ From Prateek Singh
