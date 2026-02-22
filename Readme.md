@@ -1,6 +1,6 @@
 <!-- PROFILE HEADER -->
 <h1 align="center">Hi 👋, I'm Prateek Singh</h1>
-<h3 align="center">Backend Developer | Cybersecurity | ML Explorer</h3>
+<h3 align="center">Backend Developer | Cybersecurity Explorer | ML Engineer </h3>
 
 <!-- TYPING ANIMATION -->
 <p align="center">
@@ -38,14 +38,6 @@
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge)
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=newblitz&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=newblitz&theme=tokyonight" />
-</p>
-
 
 
 ## 🧠 Currently Learning
