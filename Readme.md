@@ -1,6 +1,6 @@
 <!-- PROFILE HEADER -->
 <h1 align="center">Hi 👋, I'm Prateek Singh</h1>
-<h3 align="center">Backend Developer | Cybersecurity Explorer | ML Engineer </h3>
+<h3 align="center">Building secured scalable systems  </h3>
 
 <!-- TYPING ANIMATION -->
 <p align="center">
@@ -9,29 +9,29 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-🎓 Engineering Student  
-🐍 Python Developer  
-🌐 Backend Developer (Django)  
-🔐 Interested in Cybersecurity  
-🤖 Learning Machine Learning & Deep Learning  
+ Engineering Student  
+ Python Developer  
+ Backend Developer (Django)  
+ Interested in Cybersecurity  
+ Learning Machine Learning & Deep Learning  
  
 
-- 🌱 Currently learning **Cybersecurity & Deep Learning**
-- 🎯 Goal → Build secure and scalable systems
+-  Currently learning **Cybersecurity & Deep Learning**
+-  Goal → Build secure and scalable systems
 
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
-### 💻 Languages
+###  Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge)
 
-### ⚙️ Frameworks & Tools
+###  Frameworks & Tools
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -40,7 +40,7 @@
 ---
 
 
-## 🧠 Currently Learning
+##  Currently Learning
 
 ✔ Cybersecurity  
 ✔ Deep Learning  
@@ -50,7 +50,7 @@
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
 - LinkedIn → https://www.linkedin.com/in/prateek-singh-316a85286/
 
