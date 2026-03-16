@@ -3,8 +3,8 @@
 <h3 align="left">Building secured scalable systems  </h3>
 
 <!-- TYPING ANIMATION -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Python+Developer;Django+Backend+Developer;Cybersecurity+Learner;Machine+Learning+Explorer;Hackathon+Enthusiast" />
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Python+Developer;Django+Backend+Developer" />
 </p>
 
 ---
