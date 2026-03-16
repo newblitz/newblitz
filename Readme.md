@@ -1,6 +1,6 @@
 <!-- PROFILE HEADER -->
-<h1 align="center">Hi 👋, I'm Prateek Singh</h1>
-<h3 align="center">Building secured scalable systems  </h3>
+<h1 align="left">Hi 👋, I'm Prateek </h1>
+<h3 align="left">Building secured scalable systems  </h3>
 
 <!-- TYPING ANIMATION -->
 <p align="center">
@@ -11,11 +11,7 @@
 
 ##  About Me
 
- Engineering Student  
- Python Developer  
- Backend Developer (Django)  
- Interested in Cybersecurity  
- Learning Machine Learning & Deep Learning  
+I am currently a Pre-final year student at IIIT Nagpur 
  
 
 -  Currently learning **Cybersecurity & Deep Learning**
