@@ -7,15 +7,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Python+Developer;Django+Backend+Developer" />
 </p>
 
----
-
 ##  About Me
 
-I am currently a Pre-final year student at IIIT Nagpur 
- 
-
--  Currently learning **Cybersecurity & Deep Learning**
--  Goal → Build secure and scalable systems
+I am currently a Pre-final year student at IIIT Nagpur presently dwilling from Web dev to Artificial Intelligence to Cybersecurity to Applied Research in Machine Learning.
+have experiance with Django ,XAI ,Diffusion Models and Transformers and trying to make a curry by mixing it all up.
 
 
 ---
@@ -33,18 +28,6 @@ I am currently a Pre-final year student at IIIT Nagpur
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge)
 
----
-
-
-##  Currently Learning
-
-✔ Cybersecurity  
-✔ Deep Learning  
-✔ System Design  
-✔ Backend Architecture  
-
-
----
 
 ##  Connect With Me
 
