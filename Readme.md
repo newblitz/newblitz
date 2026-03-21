@@ -1,6 +1,6 @@
 # Prateek Singh
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Mono&size=14&pause=1000&color=00F7FF&width=300&lines=Python+%26+Django+Developer;Exploring+XAI+%26+Diffusion+Models;Security+%7C+Systems+%7C+Research" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Mono&size=14&pause=1000&color=00F7FF&width=300&lines=Python+%26+Django+Developer" alt="Typing SVG" />
 </p>
 Pre-final year @ IIIT Nagpur · Building secured, scalable systems
 
@@ -25,9 +25,3 @@ Not sure how it'll taste. Shipping it anyway.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge)
 
-
----
-
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Mono&size=14&pause=1000&color=00F7FF&width=300&lines=Python+%26+Django+Developer;Exploring+XAI+%26+Diffusion+Models;Security+%7C+Systems+%7C+Research" alt="Typing SVG" />
-</p>
