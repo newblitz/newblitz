@@ -1,6 +1,6 @@
 # Prateek Singh
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Mono&size=14&pause=1000&color=00F7FF&width=300&lines=Python+%26+Django+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Mono&size=14&pause=1000&color=d42068&width=300&lines=Python+%26+Django+Developer" alt="Typing SVG" />
 </p>
 Pre-final year @ IIIT Nagpur · Building secured, scalable systems
 
