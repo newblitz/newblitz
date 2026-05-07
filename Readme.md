@@ -7,8 +7,7 @@ Pre-final year @ IIIT Nagpur · Building secured, scalable systems
 ---
 
 Wandering across Web dev → AI → Cybersecurity → Applied ML research.  
-Currently trying to cook a curry with **Django**, **XAI**, **Diffusion Models**, and **Transformers**.  
-Not sure how it'll taste. Shipping it anyway.
+Currently playing with **Django**, **XAI**, **Diffusion Models**, and **Transformers**.  
 
 ---
 
